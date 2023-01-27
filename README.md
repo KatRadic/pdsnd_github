@@ -1,12 +1,12 @@
 >
 
 ### Date created
-This project and README file were created in January 2023.
+This project and README file were created on 27th of January 2023.
 
 ### BIKESHARA DATA ANALYSIS
 
 ### Description
-Analysing the bikeshare data from new york city, chicago and washington. Practiced functions and error handlings.
+Analysing the bikeshare data from new york city, chicago and washington. Practised functions and error handlings.
 
 ### Files used
 chicago.csv, new_york_city.csv and washington.csv
