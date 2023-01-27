@@ -5,6 +5,7 @@ import pandas as pd
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
+
 pd.set_option('display.max_columns',200)
 
 def get_filters():
